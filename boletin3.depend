@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1578086532 source:c:\users\kztyllo\desktop\boletin3\leer.c
+	"cabecera.h"
+
+1578085857 c:\users\kztyllo\desktop\boletin3\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"colores.h"
+	"leer.h"
+	"comun.h"
+	"directa.h"
+	"kmp.h"
+	"bm.h"
+
+1572184438 c:\users\kztyllo\desktop\boletin3\colores.h
+
+1578086240 c:\users\kztyllo\desktop\boletin3\leer.h
+
+1578083832 source:c:\users\kztyllo\desktop\boletin3\main.c
+	"cabecera.h"
+
+1578089977 source:c:\users\kztyllo\desktop\boletin3\directa.c
+	"cabecera.h"
+
+1578069910 c:\users\kztyllo\desktop\boletin3\directa.h
+
+1578082612 c:\users\kztyllo\desktop\boletin3\kmp.h
+
+1578089565 source:c:\users\kztyllo\desktop\boletin3\kmp.c
+	"cabecera.h"
+
+1578089697 source:c:\users\kztyllo\desktop\boletin3\comun.c
+	"cabecera.h"
+
+1578089210 c:\users\kztyllo\desktop\boletin3\comun.h
+
+1578089575 source:c:\users\kztyllo\desktop\boletin3\bm.c
+	"cabecera.h"
+
+1578086421 c:\users\kztyllo\desktop\boletin3\bm.h
+
+1578089575 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\bm.c
+	"cabecera.h"
+
+1578427522 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"colores.h"
+	"leer.h"
+	"comun.h"
+	"directa.h"
+	"kmp.h"
+	"bm.h"
+	"clasificacion.h"
+
+1572184438 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\colores.h
+
+1578427026 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\leer.h
+
+1578089210 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\comun.h
+
+1578069910 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\directa.h
+
+1578416105 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\kmp.h
+
+1578086421 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\bm.h
+
+1578137725 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\comun.c
+	"cabecera.h"
+
+1578089977 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\directa.c
+	"cabecera.h"
+
+1578417866 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\kmp.c
+	"cabecera.h"
+
+1578426605 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\leer.c
+	"cabecera.h"
+
+1578439259 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\main.c
+	"cabecera.h"
+
+1578438332 source:c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\clasificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"clasificacion.h"
+	"leer.h"
+
+1578425582 c:\users\kztyllo\desktop\ucam\algoritmia\boletin 3\codigo\clasificacion.h
+
